@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "810053644701",
+    "project_id": "availapp-62259",
+    "storage_bucket": "availapp-62259.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810053644701:android:318f7529fab3d8f7567f74",
+        "android_client_info": {
+          "package_name": "com.availapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810053644701-kgi6n3e9bbm4pk9bskbp40h2vnqfpbou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaW311kXOvE4-N56mbbG92_pjq3VnNRb8"
+        },
+        {
+          "current_key": "AIzaSyB0JTnfEj4rt6YhSh0MBX6wP_3bvqRf1Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810053644701-kgi6n3e9bbm4pk9bskbp40h2vnqfpbou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810053644701:android:aedbb04d959a9336567f74",
+        "android_client_info": {
+          "package_name": "resturent.availapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810053644701-kgi6n3e9bbm4pk9bskbp40h2vnqfpbou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaW311kXOvE4-N56mbbG92_pjq3VnNRb8"
+        },
+        {
+          "current_key": "AIzaSyB0JTnfEj4rt6YhSh0MBX6wP_3bvqRf1Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810053644701-kgi6n3e9bbm4pk9bskbp40h2vnqfpbou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810053644701:android:30f37369083f329a567f74",
+        "android_client_info": {
+          "package_name": "vendors.availapp.inn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810053644701-kgi6n3e9bbm4pk9bskbp40h2vnqfpbou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaW311kXOvE4-N56mbbG92_pjq3VnNRb8"
+        },
+        {
+          "current_key": "AIzaSyB0JTnfEj4rt6YhSh0MBX6wP_3bvqRf1Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810053644701-kgi6n3e9bbm4pk9bskbp40h2vnqfpbou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
